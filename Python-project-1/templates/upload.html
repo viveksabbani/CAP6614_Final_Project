@@ -1,0 +1,15 @@
+<!-- templates/upload.html -->
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Upload File - Vulnerable App</title>
+</head>
+<body>
+    <h1>Upload a File</h1>
+    <form method="POST" action="/upload" enctype="multipart/form-data">
+        Select file: <input type="file" name="file" /><br/>
+        <button type="submit">Upload</button>
+    </form>
+</body>
+</html>
