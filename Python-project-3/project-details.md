@@ -1,0 +1,1 @@
+This project folder contains custom buggy code that highlights the top 10 vulnerabilities listed in OWASP Top Ten vulnerabilities. Each file contains a code snippet which includes a vulnerability.
