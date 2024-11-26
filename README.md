@@ -47,8 +47,8 @@ This repository is maintained by our team as part of our project to evaluate Ban
 | **Name**            | **Role**                     |
 |---------------------|-----------------------------|
 | Vivek Sabbani       | Admin and Contributor |
-| Tanmay Arora           | Contributor           |
 | Shivam Singh       | Project Lead |
+| Tanmay Arora           | Contributor           |
 | Satwik Kaza          | Contributor           |
 | Phaneendra Allu         | Contributor        |
 
